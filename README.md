@@ -4,7 +4,7 @@ Description :
 - This project is a Python application with a Tkinter graphical user interface (GUI) that allows users to train and evaluate various machine learning models. The application includes features such as synthetic dataset generation, hyperparameter tuning for Random Forest, and visualization of model performance metrics.
 
 
-Features
+Features :
 - Synthetic Dataset Generation**: Create a classification dataset with customizable features.
 - Model Training and Evaluation**: Train and evaluate multiple machine learning models including Logistic Regression, K-Nearest Neighbors, Support Vector Classifier, Decision Tree, and Random Forest.
 - Hyperparameter Tuning**: Optimize the Random Forest model using Grid Search with cross-validation.
