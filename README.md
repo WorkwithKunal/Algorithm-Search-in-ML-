@@ -5,10 +5,10 @@ Description :
 
 
 Features :
-- Synthetic Dataset Generation**: Create a classification dataset with customizable features.
-- Model Training and Evaluation**: Train and evaluate multiple machine learning models including Logistic Regression, K-Nearest Neighbors, Support Vector Classifier, Decision Tree, and Random Forest.
-- Hyperparameter Tuning**: Optimize the Random Forest model using Grid Search with cross-validation.
-- GUI with Tkinter**: An interactive interface to start training and view results without running scripts manually.
+- Synthetic Dataset Generation: Create a classification dataset with customizable features.
+- Model Training and Evaluation: Train and evaluate multiple machine learning models including Logistic Regression, K-Nearest Neighbors, Support Vector Classifier, Decision Tree, and Random Forest.
+- Hyperparameter Tuning: Optimize the Random Forest model using Grid Search with cross-validation.
+- GUI with Tkinter: An interactive interface to start training and view results without running scripts manually.
 
 
 Example Output
